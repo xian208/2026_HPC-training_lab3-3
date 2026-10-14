@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(lab3-2 LANGUAGES C)
+project(lab3-3 LANGUAGES C)
 
 # TODO 1 (hint: find the MPI library)
 find_package(____ REQUIRED)
